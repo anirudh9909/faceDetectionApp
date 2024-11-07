@@ -1,6 +1,6 @@
 # Face Detection App
 
-This Android application detects faces in images and allows users to tag each face individually. The app leverages Google ML Kit's Face Detection API to identify faces and supports unique tagging for each detected face within images. This app is structured using the MVVM (Model-View-ViewModel) architecture, ensuring modularity, maintainability, and testability.
+This Android application detects faces in images and allows users to tag each face individually. The app leverages Google ML Kit's Face Detection API to identify faces and supports unique tagging for each detected face within images. This app is structured using the MVVM (Model-View-ViewModel) architecture.
 
 ## Architecture
 
